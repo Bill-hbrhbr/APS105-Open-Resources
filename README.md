@@ -1,2 +1,2 @@
 # APS105-Open-Resources
-Open Resources for APS105W Students
+I do not own these codes. All Credits to Baochun Li.
