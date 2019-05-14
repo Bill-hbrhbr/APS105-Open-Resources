@@ -1,2 +1,3 @@
 # APS105-Open-Resources
-I do not own these codes. All Credits to Baochun Li.
+Open Repository for APS105 Students.
+I do not own these codes.
